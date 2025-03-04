@@ -10,7 +10,7 @@ I'm a dedicated student specializing in **Artificial Intelligence, Machine Learn
   Currently immersed in courses and projects that bridge theory with practical applications in AI and data analytics.
 
 - **Community Involvement:**  
-  Active member of JEECE,ECE Paris' junior enterprise, as a technical consultant.
+  Active member of JEECE,ECE Paris' junior enterprise, as a technical consultant in electronic, AI and Data.
 
 - **Innovation & Opportunity:**  
   I am passionate about the new possibilities offered by emerging AI models and the exciting opportunities they unlock.
@@ -22,8 +22,8 @@ I'm a dedicated student specializing in **Artificial Intelligence, Machine Learn
 I love bringing ideas to life through hands-on projects. Here are a few highlights:
 
 - **Nasqad 100 Data Analysis:**  
-  An innovative solution for [brief project description, e.g., image recognition or natural language processing].  
-  [Explore on GitHub](#)
+  Advanced stock market data analysis application, developed using Spark and Streamlit.  
+  [Nasqad 100 Data Framework Analysis](https://github.com/RubenSylla110475/SparkProject_DataFramework)
 
 - **Housing Interactive Data Visualizations:**  
   Data visualisation project for housing investment based on data.gouv.fr data, with MathPlotLib and Seaborn.
