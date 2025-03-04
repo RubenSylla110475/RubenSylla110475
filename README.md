@@ -1,4 +1,9 @@
+<div align="center">
+  <img src="./img/marvin_hacker.gif" alt="marvin">
+</div>
+
 ## Hi there 👋
+
 
 <!--
 **RubenSylla110475/RubenSylla110475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
