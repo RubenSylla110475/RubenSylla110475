@@ -1,22 +1,45 @@
 # 👋 Hi, I'm Ruben SYLLA
 
-🚀 **AI Engineer | Machine Learning Researcher | Data & Cloud Developer**
+🚀 **AI Engineer | Machine Learning Researcher | Data Systems Developer**
 
-I’m a passionate engineering student specializing in **Artificial Intelligence, Machine Learning, and Data Engineering** at **ECE Paris**, currently pursuing an academic exchange at **Sungkyunkwan University (SKKU)** 🇰🇷.  
-I love transforming complex data into intelligent solutions, designing scalable AI systems, and pushing the boundaries of what’s possible with emerging technologies.
+I am an engineering student specializing in **Artificial Intelligence, Machine Learning, and Large-Scale Data Systems** at **ECE Paris**, currently completing an academic exchange in **Computer Science and Applied AI** at **Sungkyunkwan University (SKKU)** 🇰🇷.  
+My work focuses on designing **end-to-end intelligent systems** — from **data ingestion pipelines** and **distributed processing architectures** to **model training**, **deployment**, and **real-time inference**. I’m particularly interested in **reinforcement learning**, **neural architectures**, and the integration of **AI-driven decision-making** into production-grade cloud platforms.
 
 ---
 
 ## 🎓 Education
 
 - **ECE Paris – Graduate Engineering Program in Data & AI (2021–2026)**  
-  Bilingual curriculum in English & French. Focus on **Big Data, Machine Learning, Reinforcement Learning, Convolutional Neural Networks, Business Intelligence, and Cloud Automation**.
+  Bilingual curriculum in English & French. Focus on **Big Data, Machine Learning, Reinforcement Learning, Convolutional Neural Networks, Business Intelligence, and Cloud Automation**.  
+  **TOEIC:** 920/990 – Level C1 (Advanced English Proficiency)
 
 - **Sungkyunkwan University (SKKU) – Computer Science & AI Exchange Program (2025–2026)**  
   Courses in **Neural Networks for Image Processing, AI Psychophysics, Applied AI**, and **Network Architectures**.
 
 - **University of Malta – Erasmus Semester (2023–2024)**  
-  Specialization in **Embedded AI systems, Real-Time Voice Recognition**, and **Distributed Data Processing**.
+  Specialization in **Embedded AI Systems, Real-Time Voice Recognition**, and **Distributed Data Processing**.
+
+---
+
+## 📜 Certifications
+
+- [**Microsoft Azure Fundamentals – AI & Cloud Essentials**](https://app.datascientist.fr/certificat/TZ01UF3OOCQG)  
+  Awarded for completing foundational training on **cloud architectures**, **data pipelines**, and **AI service integration** in the Microsoft Azure ecosystem.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,php,js,ts,vue,nodejs,html,css)](https://skillicons.dev)
+
+### 🗄️ Data, AI & Cloud
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,azure,docker,aws,mysql,mongodb,git,github,gitlab,linux)](https://skillicons.dev)
+
+### 📡 Others
+- MapReduce, Cypher, Hadoop  
+- Streamlit, Spark, FastAPI  
+- PCB Design, IoT Systems, Node-RED
 
 ---
 
@@ -58,44 +81,10 @@ I love transforming complex data into intelligent solutions, designing scalable 
 
 ---
 
-## 🏆 Awards & Scholarships
-
-- **Academic Excellence Scholarship (x4)** – ECE Paris  
-- **KIAT Korea–U.S. High-Tech Youth Exchange Scholar**  
-- **SeSAC Hackathon – Seoul Business Agency Excellence Award (2024)**  
-- **KISIA Security Developer Hackathon – Ministry of Science & ICT Award (2024)**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,php,js,ts,vue,nodejs,html,css)](https://skillicons.dev)
-
-### 🗄️ Data, AI & Cloud
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,azure,docker,aws,mysql,mongodb,git,github,gitlab,linux)](https://skillicons.dev)
-
-### 📡 Others
-- MapReduce, Cypher, Hadoop  
-- Streamlit, Spark, FastAPI  
-- PCB design, IoT systems, Node-RED
-
----
-
-## 🎯 Interests & Activities
-
-- 🤖 Building intelligent systems that combine **AI, data, and edge computing**  
-- 💡 Exploring **reinforcement learning in finance** and **autonomous decision systems**  
-- 🏍️ Passionate about **motorcycles**, **3D modeling**, and **home automation**  
-- 🥋 6 years of **Kung Fu** (Brown Belt)
-
----
-
 ## 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ruben-sylla/)  
 - 📧 [ruben.sylla@gmail.com](mailto:ruben.sylla@gmail.com)  
-- 🐙 [GitHub](https://github.com/RubenSylla110475)
 
 ---
 
