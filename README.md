@@ -83,8 +83,19 @@ My work focuses on designing **end-to-end intelligent systems** — from **data 
 
 ## 📊 GitHub Stats & Languages
 
-[![Ruben’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=RubenSylla110475&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/RubenSylla110475)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenSylla110475&layout=compact&langs_count=6&theme=radical)](https://github.com/RubenSylla110475)
+<div align="center">
+
+  <!-- Stats + Languages côte à côte -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RubenSylla110475&show_icons=true&theme=radical&include_all_commits=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenSylla110475&layout=compact&langs_count=8&theme=radical" height="180em"/>
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RubenSylla110475&theme=radical" height="180em"/>
+
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=RubenSylla110475&theme=radical&no-bg=true&no-frame=true&row=1&column=6" height="150em"/>
+
+</div>
 
 ---
 
