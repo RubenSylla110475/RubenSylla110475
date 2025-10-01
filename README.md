@@ -85,7 +85,3 @@ My work focuses on designing **end-to-end intelligent systems** — from **data 
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ruben-sylla/)  
 - 📧 [ruben.sylla@gmail.com](mailto:ruben.sylla@gmail.com)  
-
----
-
-⭐ *"Intelligence is not about knowing everything — it’s about learning fast and building what matters."*
