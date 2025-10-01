@@ -3,7 +3,7 @@
 🚀 **AI Engineer | Machine Learning Researcher | Data Systems Developer**
 
 I am an engineering student specializing in **Artificial Intelligence, Machine Learning, and Large-Scale Data Systems** at **ECE Paris**, currently completing an academic exchange in **Computer Science and Applied AI** at **Sungkyunkwan University (SKKU)** 🇰🇷.  
-My work focuses on designing **end-to-end intelligent systems** — from **data ingestion pipelines** and **distributed processing architectures** to **model training**, **deployment**, and **real-time inference**. I’m particularly interested in **reinforcement learning**, **neural architectures**, and the integration of **AI-driven decision-making** into production-grade cloud platforms.
+I’m particularly interested in **reinforcement learning**, **neural architectures**, and the integration of **AI-driven decision-making** into production-grade cloud platforms.
 
 ---
 
