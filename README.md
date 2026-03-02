@@ -1,5 +1,5 @@
 ## **AI Engineer | Machine Learning Researcher | Data Systems Developer**
-
+**Studying at ECE Paris**
 **Currently Intern at ArianeGroup 🚀**
 
 ---
