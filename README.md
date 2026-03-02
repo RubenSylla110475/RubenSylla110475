@@ -27,10 +27,10 @@
 
 ## Tech Stack
 
-###- Programming & Frameworks
+### Programming & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,java,php,js,ts,vue,nodejs,html,css)](https://skillicons.dev)
 
-###- Data, AI & Cloud
+### Data, AI & Cloud
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,azure,docker,aws,mysql,mongodb,git,github,gitlab,linux)](https://skillicons.dev)
 
 ---
@@ -77,7 +77,6 @@
 
 <div align="center">
 
-  <!-- Stats + Languages côte à côte -->
   <img src="https://github-readme-stats.vercel.app/api?username=RubenSylla110475&show_icons=true&theme=radical&include_all_commits=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenSylla110475&layout=compact&langs_count=8&theme=radical" height="180em"/>
 
