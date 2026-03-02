@@ -1,9 +1,5 @@
-# 👋 Hi, I'm Ruben SYLLA
-
-🚀 **AI Engineer | Machine Learning Researcher | Data Systems Developer**
-
-I am an engineering student specializing in **Artificial Intelligence, Machine Learning, and Large-Scale Data Systems** at **ECE Paris**, currently completing an academic exchange in **Computer Science and Applied AI** at **Sungkyunkwan University (SKKU)** 🇰🇷.  
-I’m particularly interested in **reinforcement learning**, **neural architectures**, and the integration of **AI-driven decision-making** into production-grade cloud platforms.
+** AI Engineer | Machine Learning Researcher | Data Systems Developer**
+** Currently Intern at ArianeGroup 🚀**
 
 ---
 
@@ -28,44 +24,39 @@ I’m particularly interested in **reinforcement learning**, **neural architectu
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Programming & Frameworks
+###- Programming & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,java,php,js,ts,vue,nodejs,html,css)](https://skillicons.dev)
 
-### 🗄️ Data, AI & Cloud
+###- Data, AI & Cloud
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,azure,docker,aws,mysql,mongodb,git,github,gitlab,linux)](https://skillicons.dev)
-
-### 📡 Others
-- MapReduce, Cypher, Hadoop  
-- Streamlit, Spark, FastAPI  
-- PCB Design, IoT Systems, Node-RED
 
 ---
 
-## 🧠 Projects
+## Projects
 
-- **📊 Nasdaq 100 Data Framework Analysis**  
+- **Nasdaq 100 Data Framework Analysis**  
   Spark-powered pipeline for large-scale stock data analysis with interactive dashboards built with Streamlit.  
   [🔗 View project](https://github.com/RubenSylla110475/SparkProject_DataFramework)
 
-- **🏡 Housing Investment Data Visualization**  
+- **Housing Investment Data Visualization**  
   Interactive data analysis and visualization platform using **Matplotlib** & **Seaborn** with real estate datasets from `data.gouv.fr`.  
   [🔗 View project](https://github.com/RubenSylla110475/DataVisualisation_Investment)
 
-- **🤖 Q-Learning Trading Agent**  
+- **Q-Learning Trading Agent**  
   Reinforcement Learning agent implementing **Q-learning** to develop and backtest trading strategies.  
   [🔗 View project](https://github.com/RubenSylla110475/Q-Learning-Trading-Agent)
 
-- **📬 Smart Email Prioritizer (NLP + Telegram Bot)**  
+- **Smart Email Prioritizer (NLP + Telegram Bot)**  
   AI-powered email classifier leveraging **Gmail API** and **natural language processing** to detect critical messages and deliver real-time alerts.
 
-- **🧠 Human vs. Machine Perception Agent**  
+- **Human vs. Machine Perception Agent**  
   Psychophysical experiment modeling human visual thresholds and benchmarking them against a custom CNN trained on real and synthetic data (Stable Diffusion).
 
 ---
 
-## 💼 Experience
+## Experience
 
 - **Data & Web Developer – Kermony Office (Apr 2025 – Aug 2025)**  
   - Built a **cloud-native wealth management platform** with **Node.js, Vue.js, MongoDB, and Docker**.  
@@ -81,7 +72,7 @@ I’m particularly interested in **reinforcement learning**, **neural architectu
 
 ---
 
-## 📊 GitHub Stats & Languages
+## GitHub Stats & Languages
 
 <div align="center">
 
