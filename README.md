@@ -1,5 +1,6 @@
-** AI Engineer | Machine Learning Researcher | Data Systems Developer**
-** Currently Intern at ArianeGroup 🚀**
+## **AI Engineer | Machine Learning Researcher | Data Systems Developer**
+
+**Currently Intern at ArianeGroup 🚀**
 
 ---
 
