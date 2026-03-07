@@ -74,16 +74,6 @@
 
 ---
 
-## GitHub Stats & Languages
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=RubenSylla110475&show_icons=true&theme=radical&include_all_commits=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenSylla110475&layout=compact&langs_count=8&theme=radical" height="180em"/>
-
-</div>
-
----
 
 
 ## 📫 Let's Connect
