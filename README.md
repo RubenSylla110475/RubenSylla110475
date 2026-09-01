@@ -1,6 +1,6 @@
 ## **AI Engineer | Data Scientist | PMO & Business Intelligence | Automation Developer**
 
-**Currently Intern at ArianeGroup 🚀**
+**Data Scientist & PMO BI Consultant at Orlade | Currently on assignment at ArianeGroup 🚀**
 
 I am an engineering graduate specialized in **Data Science, Artificial Intelligence, Business Intelligence, and automation**.
 
