@@ -1,7 +1,42 @@
-## **AI Engineer | Machine Learning Researcher | Data Systems Developer**
-**Studying at ECE Paris** (final year of engineering degree)
+## **AI Engineer | Data Scientist | PMO & Business Intelligence | Automation Developer**
 
 **Currently Intern at ArianeGroup 🚀**
+
+I am an engineering graduate specialized in **Data Science, Artificial Intelligence, Business Intelligence, and automation**.
+
+Since August 2026, I have been working as a **Data Scientist and PMO BI Consultant at Orlade PMO**, currently supporting the **Ariane 6 program** at **ArianeGroup**.
+
+My work focuses on improving project management efficiency through:
+
+- Data analysis and decision-support tools
+- Business Intelligence dashboards and reporting
+- Project performance monitoring
+- Process automation
+- Development of internal tools
+- Data quality and workflow optimization
+  
+I am particularly interested in building practical data and AI solutions that simplify complex processes, improve visibility, and support operational decision-making.
+
+---
+
+## 💼 Current Position
+
+### Data Scientist & PMO BI Consultant | Orlade
+**August 2026 – Present**
+
+Currently on assignment at **ArianeGroup**, supporting project management activities related to the **Ariane 6 program**.
+
+My responsibilities include:
+
+- Designing BI and decision-support tools for project teams
+- Developing solutions to automate recurring project management processes
+- Structuring and analyzing project data
+- Improving reporting workflows and performance monitoring
+- Supporting PMO teams with data-driven insights
+- Developing dedicated tools to increase operational efficiency
+- Contributing to the continuous improvement of internal processes
+
+> Due to the confidential nature of the aerospace industry, technical and operational details about this assignment cannot be publicly disclosed.
 
 ---
 
@@ -59,6 +94,12 @@
 ---
 
 ## Experience
+
+- **Data Scientist for Project Management – Ariane 6 | Internship (February 2026 – July 2026)**
+  - Developed an interactive HTML dashboard to support the analysis of historical Ariane 5 launch operations.
+  - Designed and deployed Business Intelligence dashboards using IBM Cognos Analytics.
+  - Applied pattern mining techniques to automate and improve project planning activities.
+  - Created dedicated dashboards and decision-support tools for PMO teams.
 
 - **Data & Web Developer – Kermony Office (Apr 2025 – Aug 2025)**  
   - Built a **cloud-native wealth management platform** with **Node.js, Vue.js, MongoDB, and Docker**.  
